@@ -1,0 +1,23 @@
+.login__body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.login__body > img {
+  object-fit: contain;
+  width: 300px;
+  margin-bottom: 40px;
+}
+
+.login__body > button {
+  margin-top: 50px;
+  background-color: rgb(88, 255, 88);
+  text-transform: inherit;
+}
+
+.login__body > button:hover {
+  color: black;
+  background-color: white;
+}
