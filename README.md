@@ -1,4 +1,4 @@
-# WhatsApp - A real time chat service web app
+# WhatsApp web app
 - A WhatsApp web app clone with google authentication
 
 
